@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725961898358",
+    "project_id": "regalmojo-7e46f",
+    "storage_bucket": "regalmojo-7e46f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725961898358:android:ed25eb4e1690342cb52257",
+        "android_client_info": {
+          "package_name": "com.ij.regalmojo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725961898358-pssjkdg698qtltq5un3gp0b4po99uae4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ij.regalmojo",
+            "certificate_hash": "ebd62de538cd4fc6e671730709fd63de59aeeb35"
+          }
+        },
+        {
+          "client_id": "725961898358-42sjislkcb4udr3ff5mhah13pqkvrsj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGmLKr3cH9DDUvrkYgY2xyRyrN-SYO88M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725961898358-42sjislkcb4udr3ff5mhah13pqkvrsj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
