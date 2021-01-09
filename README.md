@@ -1,8 +1,8 @@
 # regalmojo
 
-A new Flutter application.
+Assignment.
 
-## Getting Started
+## Samples
 
-![ScreenShot](s1.jpg)![ScreenShot](s2.jpg)
-![ScreenShot](s3.jpg)
+
+<img src="/s1.jpg" width="250"> <img src="/s2.jpg" width="250"> <img src="/s3.jpg" width="250">
